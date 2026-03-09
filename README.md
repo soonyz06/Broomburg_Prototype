@@ -1,3 +1,6 @@
+Very, very small sample size to speed up run time of tests.
+Reason is this is just a proof of concept, not meant to be statistically significant. 
+
 # EDA
 HML3
 ![HML3](Broomburg/data/output/eda/num_HML_3.png)
