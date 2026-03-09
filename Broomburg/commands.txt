@@ -1,0 +1,21 @@
+<EQ> 
+DES: Description
+FA: Fundamental All
+IS: Income Statement
+BS: Balance Sheet
+CF: Cash Flow
+RV: Relative Valuation
+CMD: Terminal
+SAVE: Save to xlsx
+OPEN: Open xlsx
+VOL: Volatility
+N: News
+
+WTI: World Overview
+LIVE: Price
+MATCH: Filter <Control+LR Arrow Key>
+
+
+
+<SYS> 
+THEME: Customise Theme

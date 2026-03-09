@@ -1,0 +1,16 @@
+polars
+yahooquery
+pathlib
+diskcache
+pyarrow
+xlsxwriter
+matplotlib
+seaborn
+ttkthemes
+feedparser
+arch
+shap
+xgboost
+PyALE
+flask
+torch
