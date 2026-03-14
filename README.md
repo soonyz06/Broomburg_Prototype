@@ -1,4 +1,4 @@
-#PS Entire thing scrapped and redone in new repo.
+#PS Entire thing scrapped and redone in [new repo](https://github.com/soonyz06/model). 
 
 List of all [commands](Broomburg/commands.txt)
 
